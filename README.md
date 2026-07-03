@@ -205,18 +205,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots of your chatbot interface here.
-
-Example:
-
-```
-assets/screenshots/home.png
-assets/screenshots/chat.png
-```
-
----
 
 ## 👩‍💻 Author
 
