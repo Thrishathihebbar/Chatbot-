@@ -1,0 +1,94 @@
+Hello! How can I help you today?
+Hi! How can I help you today?
+Hey! Nice to meet you.
+I'm fine! How are you ?
+Good Morning 😄
+Good Afternoon 😊
+Good Evening 😊
+Good Night 🌙
+Welcome! How may I assist you?
+I am here to assist you.
+I can assist you today.
+How can I assist you?
+How may I help you today?
+I will help you.
+Please tell me your query.
+Feel free to ask anything.
+I am your virtual assistant.
+AI is artificial intelligence.
+Machine learning is a subset of AI.
+Deep learning is a branch of machine learning.
+NLP stands for Natural Language Processing.
+Python is a programming language.
+Java is an object-oriented programming language.
+SQL is used to manage databases.
+Cloud computing provides services over the internet.
+Cybersecurity protects systems from attacks.
+Data science involves analyzing data.
+Artificial Intelligence helps machines think like humans.
+Chatbots are used for conversation.
+A database stores structured information.
+Blockchain is a secure digital ledger.
+IoT means Internet of Things.
+Big data refers to large volumes of data.
+Streamlit is used to build Python web apps.
+TF-IDF helps convert text into vectors.
+Cosine similarity measures text similarity.
+Internship helps students gain practical experience.
+I feel very low today.
+I am upset.
+I am not feeling good.
+I feel sad.
+I feel stressed.
+I feel worried.
+I feel anxious.
+I feel nervous.
+I feel lonely.
+I feel tired.
+Why are you feeling sad?
+I understand how you feel.
+I’m here for you.
+Don't worry, everything will be okay.
+Things will get better soon.
+Stay strong, you are not alone.
+Take a deep breath and relax.
+
+I feel happy.
+I am excited.
+I feel great today.
+I am feeling wonderful.
+That is great to hear!
+That sounds amazing!
+I’m happy for you 😄
+Keep smiling 😊
+That sounds interesting!
+Tell me more about it.
+
+I am angry.
+I feel frustrated.
+I am disappointed.
+I feel irritated.
+I understand your frustration.
+Please stay calm.
+Let’s solve this together.
+Why do you feel that way?
+
+Machine learning is a subset of AI.
+Cybersecurity helps protect systems.
+Python is useful for AI projects.
+Chatbots improve customer support.
+NLP helps computers understand language.
+Cloud computing improves scalability.
+Projects improve practical knowledge.
+Learning never stops in technology.
+
+Thank you!
+You are welcome!
+Happy to help!
+Glad I could assist you.
+Bye!
+Goodbye and take care!
+See you again soon!
+Have a great day!
+
+
