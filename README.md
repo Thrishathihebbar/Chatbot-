@@ -1,4 +1,4 @@
-# 🤖 EmpathAI – Emotion-Aware Chatbot with Context Memory
+# 🤖 HELPMATE - Chatbot with Context Memory
 
 ## 📌 Overview
 
