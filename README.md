@@ -211,13 +211,13 @@ Through this project, I gained practical experience in:
 
 **Thrishathi Hebbar**
 
-B.E. Computer Science and Engineering
+B.E. Artificial Intelligence and Machine Learning
 
-Email: your-email@example.com
+Email: thrishathihebbar@gmail.com
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: http://www.linkedin.com/in/thrishathi-hebbar
 
-GitHub: https://github.com/your-username
+
 
 ---
 
